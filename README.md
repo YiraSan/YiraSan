@@ -1,7 +1,7 @@
 ## Welcome here! 😄
 
 Everybody use a language for any reason, and motivation. <br>
-It's the result that must be taken into account.
+What's matter : the result.
 <br>
 
 ***
