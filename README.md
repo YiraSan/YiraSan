@@ -1,7 +1,6 @@
 ## Welcome here! 😄
 
-Everybody use a language for any reason, and motivation. <br>
-What's matter : the result.
+I don't have much to put here.. I like Zig ?
 <br>
 
 ***
